@@ -6,7 +6,7 @@
 - 📫 Sie können mich über diese "onur.akduman@std.yeditepe.edu.tr" -E-Mail kontaktieren.
 
 
--🇺🇸
+- 🇺🇸
 - 👋 Hello, my name is Onur.
 - 👀 I am 21 years old.
 - 📚 I am studying internet and network technology at Yeditepe University.
