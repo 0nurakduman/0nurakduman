@@ -1,3 +1,4 @@
+- 🇩🇪
 - 👋 Hallo, mein Name ist Onur.
 - 👀 Ich bin 21 Jahre alt.
 - 📚 Ich studiere Internet-und Netzwerktechnologie an der Yeditepe Universität.
