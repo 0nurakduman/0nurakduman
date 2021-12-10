@@ -1,0 +1,5 @@
+- 👋 Hallo, mein Name ist Onur.
+- 👀 Ich bin 21 Jahre alt.
+- 📚 Ich studiere Internet-und Netzwerktechnologie an der Yeditepe Universität.
+- 📖 Ich bin neu in dieser Branche und muss noch viel lernen.
+- 📫 Sie können mich über diese "onur.akduman@std.yeditepe.edu.tr" -E-Mail kontaktieren.
